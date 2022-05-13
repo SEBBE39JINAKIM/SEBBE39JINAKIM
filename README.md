@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🌼 Programming Skills 🌼
+<img src="https://img.shields.io/badge/Git-green?style=flat&logo=Git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-blue?style=flat&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=FF160B"/>
+
+------
+
 
 <!--
 **SEBBE39JINAKIM/SEBBE39JINAKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
